@@ -1,0 +1,19 @@
+Para resolver esse problema e descobrir qual interruptor controla qual lâmpada com apenas duas idas até uma das salas, você pode usar a seguinte estratégia envolvendo o tempo que a lâmpada fica ligada e o calor residual:
+
+Passo a Passo:
+Ligue o primeiro interruptor (Interruptor 1) e deixe-o ligado por alguns minutos. Isso fará com que a lâmpada conectada a ele esquente.
+
+Desligue o Interruptor 1 e ligue o segundo interruptor (Interruptor 2).
+
+Vá até a sala das lâmpadas. Quando você chegar, poderá observar o seguinte:
+
+A lâmpada que está acesa será controlada pelo Interruptor 2, que você deixou ligado.
+A lâmpada que está quente, mas apagada, será controlada pelo Interruptor 1, pois ela estava ligada por um tempo e depois foi desligada, mantendo o calor.
+A lâmpada que está fria e apagada será controlada pelo Interruptor 3, que nunca foi ligado.
+Com essa abordagem, você consegue identificar qual interruptor controla cada lâmpada usando apenas uma ida até a sala das lâmpadas.
+
+
+
+
+
+
